@@ -1,6 +1,8 @@
 Version 0.0.3
 =============
 - git lfs support for csv files
+- added new datasets and models placeholder
+- added parameters placeholder
 
 Version 0.0.2
 =============
